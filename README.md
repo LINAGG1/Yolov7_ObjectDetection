@@ -12,3 +12,5 @@
 5. GPU Usage: We recommend to use nVida GPU, otherwise it will be very slow.
 6. How use this program?
 7. Environment; nVideia GPU required for training. otherwise, you can use Google cloud (free cost) based on Google colab!
+
+# 음 이것은 Branch 연습!
